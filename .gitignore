@@ -1,0 +1,11 @@
+.project
+.settings
+.classpath
+.mymetadata
+target
+
+# LeanCloud
+.avoscloud
+.leancloud
+.leanignore
+
